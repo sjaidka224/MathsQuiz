@@ -1,0 +1,161 @@
+All notable changes in this project will be documented in this file.
+
+========================================================================================================================
+
+*** 0.0.1 - 2018-03-25 ***
+
+  2018-03-22
+    * Directory structure created
+    * Added Images
+    * index.html file created
+
+  Working on -
+    * Font files
+    * Design Home screen
+
+  2018-03-23
+    * Font files added
+    * Home screen designed
+
+  Working on -
+    * Click events on home screen buttons
+    * function to load home screen
+
+========================================================================================================================
+
+*** 0.0.2 - 2018-04-01 ***
+
+  2018-03-29
+    * Click events added on Play, Learn and Options button
+
+  Working on -
+    * Load different screens
+
+  2018-03-31
+    * Load Play, Learn and options screen
+    * Load home screen function added
+
+  Working on -
+    * Start a quiz
+
+========================================================================================================================
+
+*** 0.0.3 - 2018-04-07 ***
+
+  2018-04-04
+    * Removed elements from index.html and added in seperate js file
+
+  Working on -
+    * Start a quiz
+
+  2018-04-07
+    * User can now start a quiz with simple questions
+
+  Working on -
+    * Add Timer
+    * Add back button
+    * Add Settings Screen
+
+========================================================================================================================
+
+*** 0.0.4 - 2018-04-15 ***
+
+  2018-04-10
+    * Designed Easy level game screen
+    * Added timer
+
+  Working on -
+    * Add back button
+    * Implement Settings screen
+
+  2018-04-12
+    * Added back button
+    * Implemented Settings screen
+
+  Working on -
+    * Game screen for different levels.
+    * UI changes
+    * Timer enable/disable
+
+========================================================================================================================
+
+ *** 0.0.5 - 2018-04-20 ***
+
+  2018-04-17
+   * Game screen for different levels.
+   * UI changes
+
+  Working on -
+   * Timer enable/disable
+   * Audio disable/enable
+
+  2018-04-19
+   * Timer enable/disable
+   * Audio disable/enable
+
+  Working on -
+    * Add audio files for button Click
+    * Correct/Incorrect answer
+    * Add tips
+    * Mobile responsiveness
+
+========================================================================================================================
+
+ *** 0.0.6 - 2018-04-29 ***
+
+  2018-04-25
+    * Added audio files for button click
+    * Correct/Incorrect answer
+    * Added tip and tricks popups in between the game
+
+  Working on -
+    * Configure audio, timer and tips on basis of settings of the game
+    * Work on mobile responsiveness of the game
+
+  2018-04-29
+    * Configured audio, timer and tips on basis of settings of the game
+    * worked on mobile responsiveness of the game
+
+  Working on -
+    * Unit Testing
+    * Adding more levels
+    * Add data to legal json
+
+========================================================================================================================
+
+  ****** 1.0.0 - 2018-05-18 ****** Final Release ******
+
+    2018-05-01
+      * Added data to legal json
+      * Added more levels
+
+    Working on -
+      * Unit Testing
+      * About page
+
+    2018-05-04
+      * Unit Testing
+      * Added about page
+      * Added Tutorial page
+
+    Working on -
+      * Solving Bugs
+      * Marking Justification
+      * Read me file
+
+    2018-05-05
+      * Bugs Solved and Tested
+      * Marking Justification in progress
+      * Read me file created
+
+    2018-05-10
+      * App ready for Testing
+      * Working on finding bugs and solving them
+
+    2018-05-12
+      * Working on Video
+
+    2018-05-18
+      * App Submitted
+      
+========================================================================================================================
